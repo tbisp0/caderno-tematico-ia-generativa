@@ -194,15 +194,3 @@ Este caderno temático busca transformar o estudo de IA generativa em uma práti
 A engenharia de prompts é uma habilidade central nesse processo, mas não basta apenas “escrever melhor”. É preciso pensar em objetivos, contexto, riscos, qualidade da resposta e papel humano na condução do processo.
 
 Este material pode servir como base para revisão, extensão e aprofundamento em futuras etapas de estudo.
-
-## 7. Próximos passos sugeridos
-
-- adicionar os materiais do NotebookLM ou fontes selecionadas em formato PDF/texto;
-- registrar respostas e comparações entre prompts em versões específicas;
-- criar uma seção de anotações pessoais e aprendizados;
-- atualizar o glossário com termos relevantes ao tema;
-- transformar este README em um guia de estudo mais completo com links e referências adicionais.
-
----
-
-Este README foi estruturado para refletir o tema escolhido e a proposta de caderno temático solicitado. Se o arquivo final do caderno em .docx ou .pdf for adicionado ao repositório, ele pode ser usado como base para uma segunda versão mais específica e fiel ao material original.
